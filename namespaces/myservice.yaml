@@ -5,7 +5,7 @@ metadata:
   namespace: lasample
 spec:
   selector:
-    app: nginx
+    app: nginx1
   ports:
     - protocol: TCP
       port: 80
